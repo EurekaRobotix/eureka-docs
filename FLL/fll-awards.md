@@ -1,4 +1,3 @@
-
 ## Awards
 <div style="center">
     <img src="{{'/public/images/homepage-trohpy.jpeg' | relative_url }}"/>

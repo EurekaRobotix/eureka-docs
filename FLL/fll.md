@@ -1,7 +1,4 @@
----
-layout: subpage
-title: What we do in FIRST LEGO League (FLL)?
----
+# What we do in FIRST LEGO League (FLL)?
 
 ## The Robot Game 
 

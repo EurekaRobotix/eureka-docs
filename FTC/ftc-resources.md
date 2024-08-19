@@ -1,8 +1,3 @@
----
-layout: default2
-title: Outreach
----
-
 
 ## FTC Resources
 

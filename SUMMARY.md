@@ -15,3 +15,11 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## FLL
+
+* [Building Your Robot](FLL/building-your-robot.md)
+
+## FTC
+
+* [FTC Resources](FTC/ftc-resources.md)

@@ -1,8 +1,4 @@
----
-layout: subpage
-title: FTC Tools &amp; Softwares
-author: Eureka Robotix
----
+# FTC Tools &amp; Softwares
 
 <img style="width:100%;" src="{{'/public/images/0_0_1.jpg' | relative_url }}" alt="Tools">
 

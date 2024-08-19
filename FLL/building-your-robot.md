@@ -1,11 +1,4 @@
----
-layout: subpage
-title: Building your LEGO Robot for FLL Challenge competition
-author: Pranav Maheshwaran
-article_date: 02/14/2023
-blurb: Want to craft the ultimate challenge robot, you're in the right place. Let's break down the essentials, sprinkle in some pro tips, and get that robot rolling!
-preview_image: /public/images/kids-robot-work.png
----
+# Building your LEGO Robot for FLL Challenge competition
 
 ![](/public/images/kids-robot-work.png "FLL Team building robot")
 

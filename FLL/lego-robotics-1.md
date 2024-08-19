@@ -1,8 +1,6 @@
----
-layout: subpage
-title: Introduction to LEGO Robotics - Part 1
-author: Pranav Maheshwaran
----
+# Introduction to LEGO Robotics - Part 1
+
+Pranav Maheshwaran
 
 ![](/public/images/2024-08-10_16-21-26.png "FLL Team")
 

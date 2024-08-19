@@ -1,10 +1,4 @@
----
-layout: subpage
-title: Guide to build new FIRST Lego League team
-article_date: 02/03/2023
-blurb: Dive into the essentials of starting and strengthening an FLL (FIRST Lego League) team. From scouting teammates to setting the vibe, get insights on creating a successful team with a mix of professionalism, fun, and team spirit.
-preview_image: /public/images/kids-team.png
----
+# Guide to build new FIRST Lego League team
 
 ![](/public/images/kids-team.png "FLL Team")
 
